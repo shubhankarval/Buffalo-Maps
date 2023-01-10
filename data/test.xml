@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+    <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+    <meta osm_base="2019-10-25T18:58:02Z"/>
+
+    <bounds minlat="42.8318000" minlon="-78.9197000" maxlat="42.9667000" maxlon="-78.7987000"/>
+    <node id="18723547" lat="42.8733890" lon="-79.0000000" version="5" timestamp="2011-08-24T19:36:30Z" changeset="9115762" uid="62654" user="fuego"/>
+    <node id="18758034" lat="42.9581814" lon="-78.9555079" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758037" lat="42.9585031" lon="-78.9556900" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758039" lat="42.9579982" lon="-78.9539887" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758041" lat="42.9589718" lon="-78.9535696" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758044" lat="42.9591393" lon="-78.9532625" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758046" lat="42.9592013" lon="-78.9525125" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758048" lat="42.9593081" lon="-78.9515942" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758049" lat="42.9592453" lon="-78.9504784" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758050" lat="42.9589501" lon="-78.9488218" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758051" lat="42.9586988" lon="-78.9479893" version="6" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+    <node id="18758056" lat="42.9572860" lon="-78.9462930" version="1" timestamp="2007-07-17T03:00:46Z" changeset="148749" uid="7412" user="mjulius">
+        <tag k="created_by" v="r_coastlines"/>
+        <tag k="source" v="PGS"/>
+    </node>
+    <node id="18758139" lat="42.8804424" lon="-78.8956050" version="6" timestamp="2018-03-07T03:51:47Z" changeset="56954905" uid="473104" user="AlaskaDave">
+        <tag k="source" v="PGS"/>
+    </node>
+    <way id="136633533" version="3" timestamp="2019-04-09T15:10:40Z" changeset="69050206" uid="9576097" user="interdite">
+        <nd ref="1499065219"/>
+        <nd ref="1499065326"/>
+        <tag k="abandoned" v="yes"/>
+        <tag k="building" v="industrial"/>
+        <tag k="height" v="9"/>
+        <tag k="historic" v="industrial"/>
+        <tag k="ruins" v="yes"/>
+    </way>
+    <way id="136633538" version="1" timestamp="2011-11-11T18:15:28Z" changeset="9798625" uid="348565" user="jdmonin">
+        <nd ref="1499065002"/>
+        <nd ref="1499041407"/>
+        <tag k="bridge" v="yes"/>
+        <tag k="highway" v="footway"/>
+        <tag k="layer" v="1"/>
+    </way>
+    <way id="136633540" version="2" timestamp="2019-04-09T15:10:40Z" changeset="69050206" uid="9576097" user="interdite">
+        <nd ref="1499065129"/>
+        <nd ref="1499065291"/>
+        <tag k="abandoned" v="yes"/>
+        <tag k="building" v="industrial"/>
+        <tag k="historic" v="industrial"/>
+        <tag k="ruins" v="yes"/>
+    </way>
+    <way id="12306027" version="13" timestamp="2018-12-31T18:32:28Z" changeset="65919372" uid="3970265" user="BlueJaysFan86">
+        <nd ref="312363288"/>
+        <nd ref="629201182"/>
+        <tag k="bridge" v="yes"/>
+        <tag k="layer" v="2"/>
+        <tag k="name" v="International Bridge"/>
+        <tag k="name_1" v="CN Stamford Subdivision"/>
+        <tag k="railway" v="rail"/>
+        <tag k="tiger:cfcc" v="B11"/>
+        <tag k="tiger:county" v="Erie, NY"/>
+        <tag k="tiger:name_base" v="Erie-Lackawanna Railroad"/>
+        <tag k="tiger:reviewed" v="no"/>
+        <tag k="usage" v="main"/>
+        <tag k="wikidata" v="Q6052645"/>
+    </way>
+    <way id="12306029" version="11" timestamp="2019-03-22T12:54:57Z" changeset="68410324" uid="3962" user="RussNelson">
+        <nd ref="304670909"/>
+        <nd ref="6354417718"/>
+        <nd ref="111532465"/>
+        <nd ref="111532470"/>
+        <tag k="history" v="Retrieved from v7"/>
+        <tag k="name" v="Black Rock Branch"/>
+        <tag k="old_railway_operator" v="DL&amp;W"/>
+        <tag k="railway" v="abandoned"/>
+        <tag k="tiger:cfcc" v="B11"/>
+        <tag k="tiger:county" v="Erie, NY"/>
+        <tag k="tiger:name_base" v="Erie-Lackawanna Railroad"/>
+    </way>
+</osm>

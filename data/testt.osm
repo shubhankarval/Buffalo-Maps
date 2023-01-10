@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-10-25T03:33:02Z"/>
+
+  <node id="111296042" lat="42.8309570" lon="-78.8492830"/>
+  <node id="1775735016" lat="42.8363964" lon="-78.8551733">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="noref" v="yes"/>
+  </node>
+</osm>
